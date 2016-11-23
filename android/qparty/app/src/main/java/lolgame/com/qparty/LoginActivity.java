@@ -32,6 +32,7 @@ import java.util.List;
 
 /**
  * A login screen that offers login via email/password.
+ * develop
  */
 public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<Cursor> {
 
